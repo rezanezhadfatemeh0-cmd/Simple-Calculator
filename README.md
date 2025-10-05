@@ -6,6 +6,6 @@ A basic command-line calculator built with Python
    - Error handling for invalid inputs
    - User-friendly menu interface
    
-   ## How to Run
+## How to Run
 ```bash
-   python python_calculator.py
+python python_calculator.py
