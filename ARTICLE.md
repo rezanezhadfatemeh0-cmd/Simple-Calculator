@@ -97,6 +97,5 @@ python calculator.py
 
 **Tech**: Python 3  
 **Lines of Code**: ~50  
-**License**: MIT
 
 Simple, functional, and ready to use.
